@@ -24,7 +24,7 @@ Ready to dive in? Start exploring the repository and enhance your understanding 
 
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
 ```bash
-git clone https://github.com/shubha987/Data-Structure-And-Algorithm.git
+git clone https://github.com/<your_username>/Data-Structure-And-Algorithm.git
 ```
 
 3. **Create a Branch**: Create a new branch for your contribution:
