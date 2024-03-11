@@ -1,0 +1,11 @@
+# Ignore object files and executables for C and C++
+*.o
+*.out
+*.exe
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore build directories
+build/
