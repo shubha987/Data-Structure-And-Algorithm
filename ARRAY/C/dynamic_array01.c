@@ -7,7 +7,7 @@ int main(){
     int *p;
     int size;
     printf("Enter the size of the array: ");
-    scanf("%d", &size);          // read the size
+    scanf("%d", &size);         
 
     p = (int *)malloc(size * sizeof(int));
 
