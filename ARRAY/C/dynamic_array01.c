@@ -7,7 +7,7 @@ int main(){
     int *p;
     int size;
     printf("Enter the size of the array: ");
-    scanf("%d", &size);         
+    scanf("%d", &size);         //read the size
 
     p = (int *)malloc(size * sizeof(int));
 
@@ -28,7 +28,7 @@ int main(){
     printf("The elements of the array are: ");
     for (int i = 0; i < size; i++)
     {
-        printf("%d ", p[i]);
+        printf("%c ", p[i]);
     }
     free(p);
   return 0;
