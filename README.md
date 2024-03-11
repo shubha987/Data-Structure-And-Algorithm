@@ -18,8 +18,22 @@ This repository is designed to provide a comprehensive collection of data struct
 We believe in the power of community-driven learning. Contributions are welcome! Whether you want to add new implementations, optimize existing ones, or contribute additional resources, your contributions help enrich the repository and support fellow learners on their journey.
 
 ## Getting Started
-Ready to dive in? Start exploring the repository and enhance your understanding of data structures and algorithms. Feel free to fork the repository, explore the code, and contribute back to the community!
+Ready to dive in? Start exploring the repository and enhance your understanding of data structures and algorithms. <br>
 
+1. **Fork the Repository**: Start by forking the repository to your own GitHub account.
+
+2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
+```bash
+git clone https://github.com/shubha987/Data-Structure-And-Algorithm.git
+
+
+3. **Create a Branch**: Create a new branch for your contribution:
+```bash
+git checkout -b feature/your-feature
+
+4. **Make Changes**: Make your changes, whether it's adding new implementations, optimizing existing ones, or improving documentation.
+
+5. **Commit Changes**: Commit your changes with a descriptive commit message:
 ## License
 This repository is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE.md). Feel free to use, modify, and distribute the code for educational and non-commercial purposes.
 "
