@@ -28,7 +28,7 @@ int main(){
     printf("The elements of the array are: ");
     for (int i = 0; i < size; i++)
     {
-        printf("%c ", p[i]);
+        printf("%d ", p[i]);
     }
     free(p);
   return 0;
