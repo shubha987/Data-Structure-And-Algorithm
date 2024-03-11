@@ -25,15 +25,25 @@ Ready to dive in? Start exploring the repository and enhance your understanding 
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
 ```bash
 git clone https://github.com/shubha987/Data-Structure-And-Algorithm.git
-
+```
 
 3. **Create a Branch**: Create a new branch for your contribution:
 ```bash
 git checkout -b feature/your-feature
-
+```
 4. **Make Changes**: Make your changes, whether it's adding new implementations, optimizing existing ones, or improving documentation.
 
 5. **Commit Changes**: Commit your changes with a descriptive commit message:
+```bash
+git commit -am 'Add new feature'
+```
+
+6. **Push Changes**: Push your changes to your forked repository:
+```bash
+git push origin feature/your-feature
+```
+7. **Submit a Pull Request**: Finally, submit a pull request to the `master` branch of the original repository. Provide a clear description of your changes and why they should be merged.
+
 ## License
 This repository is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE.md). Feel free to use, modify, and distribute the code for educational and non-commercial purposes.
 "
