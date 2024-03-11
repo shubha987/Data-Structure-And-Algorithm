@@ -21,5 +21,5 @@ We believe in the power of community-driven learning. Contributions are welcome!
 Ready to dive in? Start exploring the repository and enhance your understanding of data structures and algorithms. Feel free to fork the repository, explore the code, and contribute back to the community!
 
 ## License
-This repository is licensed under the [General Public License](LICENSE). Feel free to use, modify, and distribute the code for educational and non-commercial purposes.
+This repository is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE.md). Feel free to use, modify, and distribute the code for educational and non-commercial purposes.
 "
